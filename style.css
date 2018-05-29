@@ -1,0 +1,46 @@
+* {
+    text-align: center;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #25291c
+}
+
+header {
+    color: #e6e49f;
+    font-size: 55px;
+    padding: 20px;
+    font-family: 'Lato', sans-serif;
+}
+
+p {
+    font-size: 26px;
+    color: #e3e7d3;
+    font-family: 'Montserrat', sans-serif;
+}
+
+img {
+    width: 100%;
+    padding: 6px;
+}
+
+.text {
+    width: 77%;
+    padding: 3%;
+    padding-left: 41%
+}
+
+.container {
+    width: 90%
+}
+
+.photo {
+    float: left;
+    width: 50%;
+}
+
+.gallery {
+    
+}
