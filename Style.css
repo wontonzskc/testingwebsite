@@ -1,0 +1,45 @@
+* {
+    width: 100%;
+}
+
+body,
+html {
+    height: 100%;
+    background-color: #626868;
+    color: #dddddd;
+}
+
+image {
+    width: 100%;
+}
+
+.background {
+    background-image: url("/Images/Wolf%20original.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: white;
+    position: relative;
+    font-size: 90px;
+}
+
+.title {
+    position: absolute;
+    top: 44%;
+    color: #626868;
+
+}
+
+.intro{
+    width: 60%;
+    margin-left: 24%;
+    padding: 5%;
+}
+
+.introimg{
+    width: 25%;
+    float: left;
+    margin-left: -31%
+}
